@@ -1,2 +1,5 @@
-# CursoC-
-Exercicios e testes em C# treinamento DIO e Além
+# Bootcamp Java
+
+Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+
+Teste e reproduçao do codigo dado em aula
